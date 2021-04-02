@@ -1,0 +1,174 @@
+* {
+	margin:0;
+	padding:0;
+	font-family: 'Roboto', sans-serif;
+}
+.topNubex {
+	position: fixed;
+	right: 45px;
+	bottom: 45px;
+   }
+
+table {	
+	color:#FF1493;
+	border-color:black;
+}
+a {
+	color:blue;
+}
+h1 {
+	color:green;
+}
+h2,h3,h4 {
+	color:mediumspringgreen;
+}
+p{
+	color:forestgreen;
+}
+small{
+	color:mediumslateblue;
+}
+i{
+	color:green;
+ }
+}
+border{
+	color:aquamarine;
+}
+li{
+	color:aqua;
+}
+
+hr{
+	color:blue;
+}
+#thisdiv{
+	background-color:#01033d;
+}
+#aidi,#aiidi{
+	color:lime;
+}
+#aidi,#aiidi{
+	   color:white;
+	   border-bottom: 8px solid blue;
+	   background: blue;
+	   border-radius:4px;
+	   line-height:1.5;
+	   position: relative;
+	   animation: mymove 5s infinite;
+	   text-decoration:none;
+}
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+  }
+ #aiidi,#aidi:hover{
+	   color:white;
+	   border-bottom: 8px solid blue;
+	   background: blue;
+	   border-radius:4px;
+	   line-height:1.5;
+	   position: relative;
+	   animation: mymove 5s infinite;
+}
+@keyframes mymove {
+  from {right: 200px;}
+  to {right: 0px;}
+  }
+header{
+	background-color:#01033d;
+	text-align:center;
+	width:100%;
+	height:50px;
+	border-bottom:4px solid silver;
+	line-height:50px;
+	margin-bottom:50px;
+	position:fixed;
+}
+footer{
+	background-color:#01033d;
+	text-align:center;
+	width:100%;
+	height:50px;
+	border-bottom:0;
+	line-height:50px;
+	margin-bottom:-10px;
+}
+main {
+	background: azure url(fon2.png);
+	padding:50px ;
+	background-attachment: fixed;
+	z-index:1
+}
+   .box1 { 
+    background:#e2fff5 ; /* Цвет фона */
+    width: 320px; /* Ширина блока */
+    padding: 20px; /* Поля */
+    border: 4px solid #000; /* Параметры рамки */
+   }
+   .ttt {
+	   color:red;
+	   text-decoration:none;
+	   line-height:1.5;
+	   
+   }
+   .ttt:hover{
+	   text-decoration:underline;
+	   text-decoration-color:blue;
+	   color:white;
+	   border-bottom: 5px solid blue;
+	   background: blue;
+	   border-radius:4px;
+	   line-height:1.5;
+	
+   }
+	.tttt{
+	color:red;
+	text-decoration:none;
+	line-height:1.5;
+	margin:20px;
+	
+	}
+	.tttt:hover{
+	text-decoration:underline;
+	text-decoration-color:blue;
+	color:white;
+	border-bottom: 2px solid blue;
+	background: blue;
+	border-radius:4px;
+	line-height:1.5;
+	  
+	}
+	
+	
+	#teibl i {
+	 color:#db03fc;
+	}
+	#dlia_i i {
+	 color:aqua
+ }
+
+
+}
+body {
+  margin: 0
+}
+
+#img,#img1{
+	padding-right:20px;
+	padding-top:10px;
+}
+#img:hover{
+	border-bottom: 5px ;
+	border-radius:4px;
+	line-height:1.5;
+	width:1%;
+	margin-right:5px;
+}
+#img1:hover{
+	border-bottom: 5px ;
+	border-radius:4px;
+	line-height:1.5;
+	width:1%;
+	margin-right:5px;
+}
