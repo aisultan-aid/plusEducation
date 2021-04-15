@@ -100,9 +100,10 @@ ul, li{
 
 .illustration{
     float:right;
-    height: 45%;
-    width: 45%;
+    height: 100%;
+    width: auto;
     object-fit:cover;
+    position:relative;
 }
 .education{
     border: 2px solid rgb(255, 221, 2) ;
