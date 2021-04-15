@@ -8,7 +8,7 @@ body{
 .header{
     position: absolute;
     color: honeydew;
-    width: 1365.5px;
+    widht:100%;
     height:100%;
     left: 0px;
     top: 0px;
@@ -25,8 +25,9 @@ header a{
      margin-left: 5px;
 }
 .container{
-     width: 80%;
+     max-width: 1200px;
      margin: 0 auto;
+     padding:15px;
 }
 ul, li{
      padding: 0;
@@ -99,7 +100,9 @@ ul, li{
 
 .illustration{
     float:right;
-    height: 653px;
+    height: 45%;
+    width: 45%;
+    object-fit:cover;
 }
 .education{
     border: 2px solid rgb(255, 221, 2) ;
