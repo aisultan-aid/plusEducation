@@ -67,7 +67,7 @@ ul, li{
 .lorem{
     font-size: calc(13px + 11 * (100vh / 1280));
     letter-spacing: 0.125em;
-    max-width:280px;
+    max-width:290px;
 }
 .anyqtama{
     border: 2px solid rgb(255, 221, 2) ;
