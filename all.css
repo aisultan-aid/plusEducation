@@ -13,6 +13,10 @@ table {
 	color:#FF1493;
 	border-color:black;
 }
+a{
+    transition-property: all;
+    transition-duration: 0.5s;
+}
 a {
 	color:blue;
 }
