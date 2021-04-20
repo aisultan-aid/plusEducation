@@ -7,6 +7,10 @@ body{
     position: relative;
     font-family: 'Montserrat', sans-serif;
 }
+a{
+    transition-property: all;
+    transition-duration: 0.5s;
+}
 .header{
     background:linear-gradient(to right, rgb(210, 139, 238) 10%, rgb(153, 0, 255) 45%, rgb(64, 40, 250) 75%, rgb(95, 48, 206) 100%); ;
     width: 100%;
