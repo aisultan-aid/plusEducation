@@ -4,6 +4,10 @@ body{
     margin-left: 100px;
     margin-right: 100px;
 }
+a{
+    transition-property: all;
+    transition-duration: 0.5s;
+}
 .my_photo{
     position: relative;
     width: 450px;
