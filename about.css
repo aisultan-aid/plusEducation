@@ -8,16 +8,7 @@ a{
     transition-property: all;
     transition-duration: 0.5s;
 }
-.my_photo{
-    position: relative;
-    width: 450px;
-    margin-top: 50px;
-    margin-right: 100px;
-    box-shadow: 15px 15px 100px 10px #FFFFFF;
-    border-radius: 53px;  
-    border:2px solid #FFC52F;
-    float: right; 
-}
+
 body p {
     position: relative;
     font-weight: 600;
